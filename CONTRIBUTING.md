@@ -17,8 +17,8 @@ guide there. Please search before you post so we get as few duplicates as possib
 
 We are trying to keep an consistant coding convention in order to help readablility and make it easy to submit code.
 
-Things to refrain from:
-  * Different indentation in the same file
-  * Too long lines 200 chars+
+Try to stick to:
+  * The same indentation in the same file
+  * Shorter lines, 200 chars+ can be hard to read in all editors and makes code less readable.
   * All curly brackets starts at the same line as function, class, method, expression, what ever.
   * All curly brackets ends on a new line.
